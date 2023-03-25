@@ -45,5 +45,5 @@ Please enter the name of the output file: (example: c:\data\out.txt)
 C:\SampleData\output.txt
 
 
-Imputation by SiMi is done. The completed data set is written to: 
+Imputation by EDI is done. The completed data set is written to: 
 C:\SampleData\output.txt
